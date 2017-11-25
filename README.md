@@ -1,6 +1,3 @@
-# Pit Of Bones
-----------
-
 ![N|Solid](http://www.mysteriousfox.com/wp-content/uploads/2017/11/1.png)
 
 ## Gameplay
